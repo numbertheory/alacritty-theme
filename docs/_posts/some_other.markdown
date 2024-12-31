@@ -1,7 +1,9 @@
 ---
+layout: post
 title: "Some other page"
-date:   2024-12-01 16:06:26 -0800
-categories: jekyll update
+date:   "2024-12-01 16:06:26 -0800"
+categories: "jekyll update"
+published: true
 ---
 
 Another jekyll page that is new, and new to the feed.
