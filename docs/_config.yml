@@ -31,6 +31,7 @@ github_username:  jekyll
 
 # Build settings
 remote_theme: just-the-docs
+nav_enabled: true
 plugins:
   - jekyll-feed
 
