@@ -37,7 +37,7 @@ permalink: pretty
 
 defaults:
   - scope:
-      path: "alacritty-theme" # an empty string here means all files in the project
+      path: "" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "default"
@@ -69,6 +69,9 @@ exclude:
   - Dockerfile
   # theme test code
   - fixtures/
+
+feed:
+  path: feed.xml
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"
