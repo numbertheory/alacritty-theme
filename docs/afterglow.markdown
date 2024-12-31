@@ -1,6 +1,8 @@
 ---
 title: Afterglow
 parent: Themes
+tags: 
+  - darkmode
 ---
 The afterglow theme.
 
