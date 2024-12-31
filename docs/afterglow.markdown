@@ -2,7 +2,7 @@
 title: Afterglow
 parent: Themes
 tags: 
-  - darkmode
+ - darkmode
 ---
 The afterglow theme.
 
