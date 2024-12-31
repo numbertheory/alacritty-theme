@@ -2,12 +2,10 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-feed'
-gem 'just-the-docs'
-gem 'logger'
-gem 'csv'
-gem 'ostruct'
 gem 'base64'
+gem 'csv'
 gem 'erb'
-gem "webrick", "~> 1.9"
+gem 'jekyll'
+gem 'logger'
+gem 'ostruct'
+gem 'webrick', '~> 1.9'

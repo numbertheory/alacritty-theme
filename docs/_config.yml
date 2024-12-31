@@ -202,7 +202,6 @@ callouts:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
