@@ -32,8 +32,6 @@ github_username:  jekyll
 # Build settings
 remote_theme: pmarsceill/just-the-docs
 nav_enabled: true
-plugins:
-  - jekyll-feed
 
 permalink: pretty
 
@@ -201,6 +199,7 @@ callouts:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
